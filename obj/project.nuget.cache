@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlDsJ9oIl7S8rydQlVRKz+W6R/eODtX8YfuC6gpM3+1VlYTn7P9sF/f8Ktpy7QcZvpRUQaakWElTHqA4VJfugA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pcorn\\source\\repos\\lab2ex1\\lab2ex1\\lab2ex1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcorn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pcorn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
